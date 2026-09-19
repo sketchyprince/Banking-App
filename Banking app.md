@@ -20,3 +20,5 @@ Troubleshoot any Error
 4. Click **Login**  
 5. Click **Forget password** to Reset your Account Password.
 ---
+# Warning
+Never share your password with anyone.  
